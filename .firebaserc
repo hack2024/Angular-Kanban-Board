@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-kanban-49f38": {
+      "hosting": {
+        "angular-kanban-board": [
+          "angular-kanban-49f38"
+        ]
+      }
+    }
+  }
+}
