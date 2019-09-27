@@ -1,0 +1,2 @@
+Transclusion o content projection
+Lazy loading se hace medianto code spliting en webpack
