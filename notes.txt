@@ -1,2 +1,4 @@
 Transclusion o content projection
 Lazy loading se hace medianto code spliting en webpack
+FormGroup es un conjunto conjunto de inputs que se validan juntos
+al FormGroup se le asigna un FormBuilder para poder definir los inputs
