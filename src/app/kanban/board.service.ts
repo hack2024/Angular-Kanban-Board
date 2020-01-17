@@ -51,7 +51,7 @@ export class BoardService {
             .collection<Board>('boards', ref =>
               ref.where('uid', '==', user.uid).orderBy('priority')
             )
-            .valueChanges();
+            .valueChanges({ idField: 'id' });
         } else {
           return [];
         }
